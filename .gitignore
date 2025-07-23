@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+echo "node_modules/" >> .gitignore
+echo ".env" >> .gitignore
+>>>>>>> ef3c54d (Initial backend commit)
